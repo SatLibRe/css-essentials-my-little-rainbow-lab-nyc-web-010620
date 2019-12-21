@@ -18,26 +18,23 @@ div {
 }
 
 #yellow {
+  border-top-color: #ff0
+}
+
+#green {
   border-top-color: red
 }
 
-#red {
+#blue {
   border-top-color: red
 }
 
-#red {
+#indigo {
   border-top-color: red
 }
 
-#red {
+#violet {
   border-top-color: red
 }
 
-#red {
-  border-top-color: red
-}
-
-#red {
-  border-top-color: red
-}
 

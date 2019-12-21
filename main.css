@@ -7,6 +7,7 @@ div {
   border-left-color: transparent;
   border-right-color: transparent; 
   border-bottom-color: transparent; 
+  margin: auto;
 }
 
 #red {
